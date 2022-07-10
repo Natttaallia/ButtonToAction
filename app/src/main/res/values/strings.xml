@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Button to Action</string>
+    <string name="action">Action</string>
+    <string name="action_error">There is no appropriate action</string>
+    <string name="action_is_toast">Action is Toast!</string>
+    <string name="notification_text">Action is Notification!</string>
 </resources>
